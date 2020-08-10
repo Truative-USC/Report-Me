@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<string>#################</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<string>#################</string>
 	<key>CLIENT_ID</key>
-	<string>156308618803-apa545fqvdkeanrter917gubilpjradl.apps.googleusercontent.com</string>
+	<string>#################</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.156308618803-apa545fqvdkeanrter917gubilpjradl</string>
+	<string>#################</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCgLi1LL1wVSyUCvkx5rZD7zsY4pGzx9M8</string>
+	<string>#################</string>
 	<key>GCM_SENDER_ID</key>
 	<string>156308618803</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.Truative.Bully</string>
+	<string>#################</string>
 	<key>PROJECT_ID</key>
 	<string>bully-16b9e</string>
 	<key>STORAGE_BUCKET</key>
-	<string>bully-16b9e.appspot.com</string>
+	<string>#################</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:156308618803:ios:f76189242909d481</string>
+	<string>#################</string>
 	<key>DATABASE_URL</key>
-	<string>https://bully-16b9e.firebaseio.com</string>
+	<string>#################</string>
 </dict>
 </plist>
