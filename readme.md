@@ -3,7 +3,5 @@ for the Santa Monica Malibu Unified School District.
 
 Stack:
 
-Swift 3
-Firebase 
-Firebase Auth
+Swift 3, FirebaseDB, Firebase Auth
 
